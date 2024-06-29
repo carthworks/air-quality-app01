@@ -1,0 +1,25 @@
+.good {
+    background-color: #00e400; /* Green for good AQI */
+    color: white;
+  }
+  .moderate {
+    background-color: #ffff00; /* Yellow for moderate AQI */
+    color: black;
+  }
+  .unhealthy-sensitive {
+    background-color: #ff7e00; /* Orange for unhealthy for sensitive groups AQI */
+    color: white;
+  }
+  .unhealthy {
+    background-color: #ff0000; /* Red for unhealthy AQI */
+    color: white;
+  }
+  .very-unhealthy {
+    background-color: #8f3f97; /* Purple for very unhealthy AQI */
+    color: white;
+  }
+  .hazardous {
+    background-color: #7e0023; /* Maroon for hazardous AQI */
+    color: white;
+  }
+  
